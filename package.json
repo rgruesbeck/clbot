@@ -1,0 +1,19 @@
+{
+  "name": "sophia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leveldown": "^1.5.3",
+    "levelup": "^1.3.3",
+    "node-craigslist": "^1.1.0",
+    "node-schedule": "^1.3.0",
+    "slack-node": "^0.1.8"
+  }
+}

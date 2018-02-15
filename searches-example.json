@@ -1,0 +1,25 @@
+[
+  {
+    "opts": {
+      "category" : "jjj",
+      "searchDistance": 6,
+      "postal": 94608
+    },
+    "query": "javascript developer"
+  },
+  {
+    "opts": {
+      "category" : "tlg"
+    },
+    "query": "live music|keyboard|piano|church",
+    "filter": "all ages|metal|classical|dj|assistant|model|video|roadie|engineer|singer|dancer|manager|guitar|actor|bass|drummer|!!|sign waving|sign-waving|music video|open mic|photographer|videographer|vegas"
+  },
+  {
+    "opts": {
+      "category" : "bik",
+      "searchDistance": 50,
+      "postal": 94608
+    },
+    "query": "citizen barcelona"
+  }
+]

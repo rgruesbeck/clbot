@@ -1,0 +1,7 @@
+node_modules
+tmp
+leveldb
+*.log
+app-variables.env
+searches.json
+todo.org
